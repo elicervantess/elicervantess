@@ -29,7 +29,7 @@ Python | C++ | JAVA | JavaScript | TypeScript | SQL | R | HTML | CSS | Next.js |
 ## 🌎 Follow me! 
 - 👓 HackerRank: https://www.hackerrank.com/jireh_cervantes
 - 💼 LinkedIn : https://www.linkedin.com/in/jireh-cervantes-6aa95334b
-- 📫 Reach out ->  **kdevivanco@gmail.com**
+- 📫 Reach out ->  **elicervantess04@gmail.com**
 
 ---
 
