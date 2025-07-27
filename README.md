@@ -56,7 +56,7 @@ Python | C++ | JAVA | JavaScript | TypeScript | SQL | R | HTML | CSS | Next.js |
 
 ---
 
-### 🎯 Let's connect and collaborate! 🚀
+### 🎯 Let's connect and collaborate! 🚀 
 
 
 
