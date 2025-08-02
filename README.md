@@ -41,7 +41,7 @@ Python | C++ | JAVA | JavaScript | TypeScript | SQL | R | HTML | CSS | Next.js |
 
 ### 🔥 Lenguajes más usados
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=elicervantess&hide=html,typescript,scss,ruby,powershell&layout=compact&title_color=ff652f&icon_color=FFE400&bg_color=09131B&text_color=ffffff&border_color=0c1a25" />
+  <img src="[https://github-readme-stats.vercel.app/api/top-langs/?username=elicervantess](https://github-readme-stats.vercel.app/api/top-langs/?username=elicervantess&hide=html,typescript,scss,ruby,powershell&layout=compact&title_color=ff652f&icon_color=FFE400&bg_color=09131B&text_color=ffffff&border_color=0c1a25" />
 </p>
 
 ### 🏆 GitHub Trophies
