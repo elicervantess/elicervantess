@@ -52,7 +52,7 @@ Python | C++ | Java | JavaScript | TypeScript | SQL | R | HTML | CSS | Next.js |
 ### 🏆 GitHub Trophies
 
 <p align="center">
-  <img src="https://github-trophy-eight-theta.vercel.app/?username=elicervantess&theme=onedark&no-frame=true" alt="GitHub Trophies" />
+  <img src="https://github-profile-trophy-eight.vercel.app/?username=elicervantess&theme=onedark&no-frame=true&row=2&column=3" alt="GitHub Trophies" />
 </p>
 
 ### 🚀 Profile Views Counter
