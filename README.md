@@ -37,17 +37,29 @@ Python | C++ | Java | JavaScript | TypeScript | SQL | R | HTML | CSS | Next.js |
 
 ## 📊 GitHub Activity
 
-### 🔥 My GitHub Stats
-```![GitHub Stats](https://github-readme-stats.vercel.app/api?username=elicervantess&show_icons=true&theme=default&count_private=true)```
+## 📊 My GitHub Stats
 
-### 📈 Top Languages
-```![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=elicervantess&layout=compact&theme=default)```
+<p align="center">
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=elicervantess&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" alt="GitHub Stats" />
+</p>
+
+### 🔥 Most Used Languages
+
+<p align="center">
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=elicervantess&layout=compact&langs_count=8&theme=tokyonight" alt="Most Used Languages" />
+</p>
 
 ### 🏆 GitHub Trophies
-```![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=elicervantess&theme=flat&no-frame=true)```
 
-### 👁️ Profile Views
-![Profile Views](https://komarev.com/ghpvc/?username=elicervantess&color=blue)
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=elicervantess&theme=onedark&no-frame=true&row=2&column=4" alt="GitHub Trophies" />
+</p>
+
+### 🚀 Profile Views Counter
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=elicervantess&color=blue&style=flat-square" alt="Profile Views" />
+</p>
 
 ---
 
