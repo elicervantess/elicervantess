@@ -37,7 +37,7 @@ Python | C++ | Java | JavaScript | TypeScript | SQL | R | HTML | CSS | Next.js |
 
 ## 📊 GitHub Activity
 
-## 📊 My GitHub Stats
+### 📊 My GitHub Stats
 
 <p align="center">
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=elicervantess&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" alt="GitHub Stats" />
