@@ -24,6 +24,8 @@ Python | C++ | JAVA | JavaScript | TypeScript | SQL | R | HTML | CSS | Next.js |
 <img align="left" alt="Git" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" style="padding-right:10px;" />
 <img align="left" alt="GitHub" width="26px" src="https://user-images.githubusercontent.com/3369400/139448065-39a229ba-4b06-434b-bc67-616e2ed80c8f.png" style="padding-right:10px;" />
 
+<br clear="left"/>
+
 ---
 
 ## 🌎 Follow me! 
@@ -36,31 +38,28 @@ Python | C++ | JAVA | JavaScript | TypeScript | SQL | R | HTML | CSS | Next.js |
 ## 📊 My GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=elicervantess&show_icons=true&theme=tokyonight&cache_seconds=30" />
+  <img src="https://github-readme-stats.vercel.app/api?username=elicervantess&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" alt="GitHub Stats" />
 </p>
 
 ### 🔥 Lenguajes más usados
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=elicervantess&hide=html,typescript,scss,ruby,powershell&layout=compact&title_color=ff652f&icon_color=FFE400&bg_color=09131B&text_color=ffffff&border_color=0c1a25&cache_seconds=30" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=elicervantess&layout=compact&theme=tokyonight&langs_count=8" alt="Top Languages" />
 </p>
 
 ### 🏆 GitHub Trophies
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=elicervantess&theme=onedark&margin-w=15&margin-h=15" />
+  <img src="https://github-profile-trophy.vercel.app/?username=elicervantess&theme=onedark&no-frame=true&row=1&column=7" alt="GitHub Trophies" />
 </p>
 
 ### 🚀 Contador de visitas
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=elicervantess&label=Profile%20Views&color=blue&style=flat" />
+  <img src="https://komarev.com/ghpvc/?username=elicervantess&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views" />
 </p>
 
 ---
 
 ### 🎯 Let's connect and collaborate! 🚀
-
-
-
 
